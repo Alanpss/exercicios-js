@@ -15,3 +15,6 @@ console.log(a, b)
 const c = 5
 //c = 50
 console.log(c)
+
+const d = 200
+console.log(d)
